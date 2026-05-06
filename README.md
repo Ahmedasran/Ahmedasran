@@ -1,6 +1,6 @@
 # Ahmed Mohamed Asran
 
-Data Engineering Student passionate about Big Data, Streaming Systems, and Distributed Architectures.
+Data Engineering passionate about Big Data, Streaming Systems, and Distributed Architectures.
 
 ---
 
