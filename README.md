@@ -1,45 +1,56 @@
-# Ahmed Mohamed Asran
-
-Data Engineering passionate about Big Data, Streaming Systems, and Distributed Architectures.
-
----
-
-## 🚀 Tech Stack
-
-- Python
-- SQL
-- Apache Kafka
-- Apache Spark
-- Hadoop
-- Hive
-- Airflow
-- MongoDB
+<h1 align="center">Hi 👋, I'm Ahmed Mohamed Asran</h1>
+<h3 align="center">Data Engineering Student | Kafka | Spark | Airflow</h3>
 
 ---
 
-## 📚 Current Focus
+## 🚀 About Me
 
-- Real-Time Data Pipelines
-- Distributed Systems
-- ETL & ELT Pipelines
-- Streaming Analytics
+- 🎓 Information Systems Student at Helwan University
+- 🔥 Passionate about Big Data & Streaming Systems
+- ⚡ Working with Kafka, Spark, Hadoop, Hive & Airflow
+- 📊 Interested in Real-Time Analytics Pipelines
 
 ---
 
-## 🔥 Featured Projects
+## 🛠️ Tech Stack
 
-### Real-Time Movie Ratings Analytics
-Built a streaming analytics pipeline using Kafka and Spark for real-time movie data processing.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,docker,git,github" />
+</p>
 
-### Traffic Accident Analytics
-Analyzed streaming accident data to identify high-risk locations and accident patterns.
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apachekafka">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black">
+</p>
 
-### Disease Prediction System
-Machine learning classification project using Python and Scikit-learn.
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedasran&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedasran&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Featured Project
+
+### 🎬 Real-Time Movie Analytics
+Real-time streaming analytics pipeline using Kafka, Spark and Apache NiFi.
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/ahmed-asran-0959061b5
-- GitHub: github.com/Ahmedasran
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmed-asran-0959061b5">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+</p>
